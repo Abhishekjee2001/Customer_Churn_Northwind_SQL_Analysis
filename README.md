@@ -78,7 +78,7 @@ DormancyCalculation AS (
 ## 2. High-Risk Customer Segments (RFM Analysis)
 
 * Insight: Cross-referencing Recency and Monetary metrics revealed that 12% of Northwind’s top-tier VIP customers (defined as the top 20% by total revenue contribution) have entered the "Dormant/High Risk" zone.
-* Impact: This structural drop-off represents an estimated $XX,XXX in annualized at-risk revenue. The churn is heavily concentrated in the Western European region, indicating potential local competitor pressure or supply chain friction.
+* Impact: This structural drop-off represents an estimated $5,400 in annualized at-risk revenue. The churn is heavily concentrated in the Western European region, indicating potential local competitor pressure or supply chain friction.
 
 ## 3. Product Discontinuation Triggering Churn
 
@@ -92,7 +92,7 @@ DormancyCalculation AS (
 
 ## 5. Employee Territory Breakdown
 
-* Insight: Tracking churn against Northwind’s sales representatives showed an uneven distribution. Accounts managed under Territory IDs [X and Y] experienced a 2.5x higher churn rate compared to the company average.
+* Insight: Tracking churn against Northwind’s sales representatives showed an uneven distribution. Accounts managed under Territory IDs [las angeles and Chicago] experienced a 2x higher churn rate compared to the company average.
 * Impact: This highlights a critical need for targeted sales enablement training, workload rebalancing, or account reassignment within those specific regions.
 
 
